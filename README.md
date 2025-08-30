@@ -8,8 +8,8 @@ Apasionado por la defensa digital, la investigación de incidentes y el aprendiz
 ## 🧑‍💻 Sobre mí
 - 👨‍💻 Rol actual: **Analista SOC L1**  
 - 🛡️ Enfocado en: **detección, respuesta e investigación de incidentes**  
-- 🌱 Aprendiendo: **Threat Hunting, SIEM (Splunk/QRadar), MITRE ATT&CK, Python para automatización**  
-- 🎯 Objetivo: crecer hacia roles de **SOC L2 / Threat Hunter / DFIR**  
+- 🌱 Aprendiendo: **Threat Hunting, SIEM (Splunk), MITRE ATT&CK
+- 🎯 Objetivo: crecer hacia roles de **SOC L2 / Red Team / DFIR**  
 
 ---
 
@@ -26,7 +26,6 @@ Además:
 ---
 
 ## 🌐 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-URL-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/david-garcia-sec/)
 
----
-💡 *“La seguridad no es un producto, es un proceso.”* – Bruce Schneier
+
