@@ -10,7 +10,7 @@ Apasionado por la defensa digital, la investigación de incidentes y el aprendiz
 - 🎯 Objetivo: crecer hacia roles de **SOC L2 / Red Team / Cloud Security**  
 
 
-## 🎮 Hacking Platforms
+## 🖥️ Plataformas de Hacking
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/r4men.png)](https://tryhackme.com/p/r4men)
 
