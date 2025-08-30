@@ -15,7 +15,7 @@ Apasionado por la defensa digital, la investigación de incidentes y el aprendiz
 
 ## 🎮 Hacking Platforms
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5407593" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/r4men.png" alt="Your Image Badge" />
 
 ---
 
