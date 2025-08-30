@@ -3,8 +3,6 @@
 🔐 **SOC Analyst L1 | Ciberseguridad | Blue Team**  
 Apasionado por la defensa digital, la investigación de incidentes y el aprendizaje continuo en seguridad informática. 🚀  
 
----
-
 ## 🧑‍💻 Sobre mí
 - 👨‍💻 Rol actual: **Analista SOC L1**  
 - 🛡️ Enfocado en: **detección, respuesta e investigación de incidentes**  
