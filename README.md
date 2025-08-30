@@ -13,7 +13,7 @@ Apasionado por la defensa digital, la investigación de incidentes y el aprendiz
 Aquí se muestran mis proyectos prácticos y laboratorios enfocados en ciberseguridad y SOC:
 
 ### 🛠️ Proyectos Principales
-- **[01-Laboratorio-SIEM](https://github.com/david-garcia-sec/SOC-Portfolio---David-Garcia/tree/main/Proyectos/01-Laboratorio-SIEM)**  
+- **[01 - Laboratorio SIEM](https://github.com/david-garcia-sec/SOC-Portfolio---David-Garcia/tree/main/Proyectos/01-Laboratorio-SIEM)**  
   Dashboards, reglas de correlación y alertas creadas en Splunk para la detección de incidentes.  
 
 
