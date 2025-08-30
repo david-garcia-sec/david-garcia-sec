@@ -14,7 +14,7 @@ Soy un desarrollador apasionado por la tecnología, el aprendizaje constante y l
 
 ## 🚀 Tecnologías y herramientas
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java,html,css,tailwind,git,github,docker,mysql,mongodb,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,mysql,mongodb," />
 </p>
 
 ---
