@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre]
 
-<!--
-**david-garcia-sec/david-garcia-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por la tecnología, el aprendizaje constante y la creación de proyectos que aporten valor. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mí
+- 🔭 Actualmente trabajando en: **[tu proyecto o stack principal]**
+- 🌱 Aprendiendo: **[tecnología, framework o lenguaje]**
+- 💬 Pregúntame sobre: **[temas que dominas]**
+- ⚡ Fun fact: **[dato curioso o personal tuyo]**
+
+---
+
+## 🚀 Tecnologías y herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java,html,css,tailwind,git,github,docker,mysql,mongodb,vscode" />
+</p>
+
+---
+
+## 📊 Estadísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)
+
+---
+
+## 🌐 Conecta conmigo
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario/)
+- 🌎 [Portafolio](https://tu-portfolio.com)
+- 🐦 [Twitter](https://twitter.com/tuusuario)
+
+---
+✨ Gracias por visitar mi perfil ✨
