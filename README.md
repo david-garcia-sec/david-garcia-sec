@@ -8,6 +8,14 @@ Apasionado por la defensa digital, la investigación de incidentes y el aprendiz
 - 📜 Certificaciones en camino: CompTIA Security+, CCNA
 - 🎯 Objetivo: crecer hacia roles de **SOC L2 / Red Team / Cloud Security**  
 
+## :open_file_folder: Proyectos
+
+Aquí se muestran mis proyectos prácticos y laboratorios enfocados en ciberseguridad y SOC:
+
+### :tools: Proyectos Principales
+- **01-Laboratorio-SIEM**  
+  Dashboards, reglas de correlación y alertas creadas en Splunk para la detección de incidentes.  
+
 
 ## 🖥️ Plataformas de Hacking
 
