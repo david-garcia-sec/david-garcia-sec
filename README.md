@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [David]
+# 👋 ¡Hola! Soy David
 
 🔐 **SOC Analyst L1 | Ciberseguridad | Blue Team**  
 Apasionado por la defensa digital, la investigación de incidentes y el aprendizaje continuo en seguridad informática. 🚀  
