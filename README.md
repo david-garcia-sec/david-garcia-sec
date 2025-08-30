@@ -8,8 +8,13 @@ Apasionado por la defensa digital, la investigación de incidentes y el aprendiz
 ## 🧑‍💻 Sobre mí
 - 👨‍💻 Rol actual: **Analista SOC L1**  
 - 🛡️ Enfocado en: **detección, respuesta e investigación de incidentes**  
-- 🌱 Aprendiendo: **Threat Hunting, SIEM (Splunk), MITRE ATT&CK
+- 🌱 Aprendiendo: SIEM (Splunk), MITRE ATT&CK, SOC L1 (TryHackMe)
 - 🎯 Objetivo: crecer hacia roles de **SOC L2 / Red Team / DFIR**  
+
+---
+
+🎮 Hacking Platforms
+Hack The Box TryHackMe
 
 ---
 
