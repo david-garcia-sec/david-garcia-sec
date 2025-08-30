@@ -13,8 +13,8 @@ Apasionado por la defensa digital, la investigación de incidentes y el aprendiz
 
 ---
 
-🎮 Hacking Platforms
-Hack The Box TryHackMe
+## 🎮 Hacking Platforms
+
 
 ---
 
