@@ -15,7 +15,7 @@ Apasionado por la defensa digital, la investigación de incidentes y el aprendiz
 
 ## 🔧 Tecnologías y herramientas
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,windows,powershell,git,github,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,windows,powershell,aws" />
 </p>
 
 Además:  
