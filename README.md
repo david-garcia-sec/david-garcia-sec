@@ -23,11 +23,13 @@ Aquí se muestran mis proyectos prácticos y laboratorios enfocados en cibersegu
 ### TryHackMe
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/r4men.png)
 
+img src="https://tryhackme-badges.s3.amazonaws.com/r4men.png"
 
 
 ## 🔧 Tecnologías y herramientas
 <p>
 <img src="https://skillicons.dev/icons?i=python,bash,linux,windows,powershell,aws" />
+
 
 </p>
 
