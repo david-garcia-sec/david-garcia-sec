@@ -21,7 +21,7 @@ Aquí se muestran mis proyectos prácticos y laboratorios enfocados en cibersegu
 ## 🖥️ Plataformas de Hacking
 
 ### TryHackMe
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/r4men.png)](https://tryhackme.com/p/r4men)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/r4men.png)
 
 
 
