@@ -22,7 +22,7 @@ Aquí se muestran mis proyectos prácticos y laboratorios enfocados en cibersegu
 
 ### TryHackMe
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/r4men.png?refresh=1)](https://tryhackme.com/p/r4men)
-![THM](https://img.shields.io/badge/TryHackMe-r4men-red?logo=tryhackme)
+
 
 
 
