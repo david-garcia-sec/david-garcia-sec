@@ -26,7 +26,7 @@ Aquí se muestran mis proyectos prácticos y laboratorios enfocados en cibersegu
 
 ## 🔧 Tecnologías y herramientas
 <p>
-<img src="https://skillicons.dev/icons?i=bash,linux,windows,powershell" />
+<img src="https://skillicons.dev/icons?i=windows,powershell,linux,bash" />
 
 
 </p>
