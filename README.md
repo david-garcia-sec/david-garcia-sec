@@ -22,6 +22,8 @@ Aquí se muestran mis proyectos prácticos y laboratorios enfocados en cibersegu
 
 ### TryHackMe
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/r4men.png?refresh=1)](https://tryhackme.com/p/r4men)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/r4men.png?x=2)](https://tryhackme.com/p/r4men)
+
 
 
 ## 🔧 Tecnologías y herramientas
