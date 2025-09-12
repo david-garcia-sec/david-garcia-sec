@@ -16,7 +16,9 @@ Aquí se muestran mis proyectos prácticos y laboratorios enfocados en cibersegu
 - **[01 - Laboratorio SIEM](https://github.com/david-garcia-sec/SOC-Portfolio---David-Garcia/tree/main/Proyectos/01-Laboratorio-SIEM)**  
   Dashboards, reglas de correlación y alertas creadas en Splunk para la detección de incidentes.
 
-<!-- Esto es un comentario y no se verá en el README ### 🔬 Labs Adicionales -->
+### 🔬 Labs Adicionales
+
+- [OverTheWire-Bandit-ssh-Practice]([https://github.com/usuario/otro-repo](https://github.com/david-garcia-sec/OverTheWire-Bandit-ssh-Practice))
 
 ## 🖥️ Plataformas de Hacking
 
