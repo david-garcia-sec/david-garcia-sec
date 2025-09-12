@@ -14,9 +14,9 @@ Aquí se muestran mis proyectos prácticos y laboratorios enfocados en cibersegu
 
 ### 🛠️ Proyectos Principales
 - **[01 - Laboratorio SIEM](https://github.com/david-garcia-sec/SOC-Portfolio---David-Garcia/tree/main/Proyectos/01-Laboratorio-SIEM)**  
-  Dashboards, reglas de correlación y alertas creadas en Splunk para la detección de incidentes.  
+  Dashboards, reglas de correlación y alertas creadas en Splunk para la detección de incidentes.
 
-
+<!-- Esto es un comentario y no se verá en el README ### 🔬 Labs Adicionales -->
 
 ## 🖥️ Plataformas de Hacking
 
