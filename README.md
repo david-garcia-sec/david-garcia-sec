@@ -57,7 +57,7 @@ Aquí se muestran mis proyectos prácticos y laboratorios enfocados en cibersegu
 
 </p>
  
-- 🛡️ **SIEM:** Splunk, Kibana, Elastic.
+- 🛡️ **SIEM:** Splunk, Kibana, ELK (elastic).
 - 🔎 **Frameworks:** MITRE ATT&CK, Cyber Kill Chain  
 - 🧰 **Otros:** Wireshark, Burpsuite 
 
