@@ -47,8 +47,8 @@ Aquí se muestran mis proyectos prácticos y laboratorios enfocados en cibersegu
 
 ## 🔧 Tecnologías y herramientas
 
-<p>
- 
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=windows,powershell,linux,bash" />
 <img src="https://logos-world.net/wp-content/uploads/2022/11/Splunk-Emblem.png" width="80" />
 <img src="https://cdn.simpleicons.org/elastic/005571" width="48" />
