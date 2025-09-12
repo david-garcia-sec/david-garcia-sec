@@ -18,7 +18,7 @@ Aquí se muestran mis proyectos prácticos y laboratorios enfocados en cibersegu
 
 ### 🔬 Labs Adicionales
 
-- [OverTheWire-Bandit-ssh-Practice]([https://github.com/usuario/otro-repo](https://github.com/david-garcia-sec/OverTheWire-Bandit-ssh-Practice))
+- [OverTheWire-Bandit-ssh-Practice](https://github.com/david-garcia-sec/OverTheWire-Bandit-ssh-Practice)
 
 ## 🖥️ Plataformas de Hacking
 
