@@ -4,7 +4,7 @@ Apasionado por la defensa digital, la investigación de incidentes y el aprendiz
 
 - 👨‍💻 Rol actual: **Analista SOC L1**  
 - 🛡️ Enfocado en: **detección, respuesta e investigación de incidentes**  
-- 🌱 Aprendiendo: SIEM (Splunk), MITRE ATT&CK, SOC L1 (TryHackMe)
+- 🌱 Aprendiendo: SIEM (Splunk, Kibana), MITRE ATT&CK, SOC L1 (TryHackMe)
 - 📜 Certificaciones en camino: CompTIA Security+, CCNA
 - 🎯 Objetivo: crecer hacia roles de **SOC L2 / Red Team / Cloud Security**  
 
