@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy David
  
-Apasionado por la defensa digital, la investigación de incidentes y el aprendizaje continuo en seguridad informática. 🚀  
+Apasionado por la defensa digital, la investigación de incidentes y el aprendizaje continuo en seguridad informática.  
 
 - 👨‍💻 Rol actual: **Analista SOC L1**  
 - 🛡️ Enfocado en: **detección, respuesta e investigación de incidentes**  
